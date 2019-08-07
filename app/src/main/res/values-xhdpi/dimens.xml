@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">23sp</dimen>
+    <dimen name="date_size">20sp</dimen>
+    <dimen name="image_weather_size">120dp</dimen>
+</resources>

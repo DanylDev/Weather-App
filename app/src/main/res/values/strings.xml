@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="setting">Settings</string>
+    <string name="day">Day</string>
+    <string name="week">3 Days</string>
+    <string name="two_week">Week</string>
+    <string name="km">m/s</string>
+    <string name="mi">Mi/hour</string>
+    <string name="temperature">temperature</string>
+    <string name="frequency">frequency</string>
+    <string name="speed">speed</string>
+    <string name="city">city</string>
+    <string name="rain">Rain</string>
+    <string name="snow">Snow</string>
+    <string name="thunderstorm">Thunderstorm</string>
+    <string name="clear">Clear</string>
+    <string name="clouds">Clouds</string>
+    <string name="mist">Mist</string>
+    <string name="press_once">Click again to exit!</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

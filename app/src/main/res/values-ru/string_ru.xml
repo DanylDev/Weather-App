@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="setting">Настройки</string>
+    <string name="day">День</string>
+    <string name="week">3 Дня</string>
+    <string name="two_week">Неделя</string>
+    <string name="km">м/с</string>
+    <string name="mi">мил/ч</string>
+    <string name="rain">Дождь</string>
+    <string name="snow">Снег</string>
+    <string name="thunderstorm">Гроза</string>
+    <string name="clear">Ясно</string>
+    <string name="clouds">Облачно</string>
+    <string name="mist">Туман</string>
+    <string name="press_once">Нажмите еще раз для выхода!</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="temperature">temperature</string>
+    <string name="frequency">frequency</string>
+    <string name="speed">speed</string>
+    <string name="city">city</string>
+</resources>
